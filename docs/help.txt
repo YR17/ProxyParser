@@ -1,0 +1,7 @@
+Using:
+-l [file]						List of sites
+-f [file=proxy.txt] File for proxys
+-s [site]						Site for parse
+-sort 							Sort proxys.Not working
+-m 									Max
+-vv 								Verbose mode
